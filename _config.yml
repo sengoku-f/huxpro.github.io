@@ -4,7 +4,7 @@ SEOTitle: 言简意赅 | Blog
 header-img: img/home-bg.jpg
 email: 574751879@qq.com
 description: "与你一起发现更大的世界。"
-keyword: "博客, 个人网站, 互联网, Web, JavaScript, 动画, 设计, 音乐, 电影"
+keyword: "博客, 个人网站, 互联网, Web, ll大法好, 动画, 设计, 音乐, 电影"
 url: "https://sengoku-f.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -90,34 +90,10 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: ""
+        title: "琉璃神社",
+        href: "https://www.hacg.fi/wp/"
     },{
-        title: "前端外刊评论",
-        href: ""
-    },{
-        title: "天镶的博客",
-        href: ""
-    },{
-        title: "Luke 的自留地",
-        href: ""
-    },{
-        title: "Ebn's Blog",
-        href: ""
-    },{
-        title: "SmdCn's Blog",
-        href: ""
-    },{
-        title: "解旻的博客",
-        href: ""
-    },{
-        title: "DHong Say",
-        href: ""
-    },{
-        title: "尹峰以为",
-        href: ""
-    },{
-        title: "前端神盾局",
-        href: ""
+        title: "灵梦御所",
+        href: "https://blog.reimu.net"
     }
 ]
