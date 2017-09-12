@@ -12,10 +12,10 @@ baseurl: "https://sengoku-f.github.io/"                             # for exampl
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+weibo_username:     
+zhihu_username:     
+github_username:    
+twitter_username:   
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
