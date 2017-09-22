@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: 言简意赅
 SEOTitle: 言简意赅 | Blog
 header-img: img/home-bg.jpg
@@ -90,10 +90,13 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "琉璃神社",
-        href: "https://www.hacg.fi/wp/"
+        title: "LookAE",
+        href: "http://www.lookae.com/"
     },{
-        title: "灵梦御所",
-        href: "https://blog.reimu.net"
+        title: "dribbble",
+        href: "https://dribbble.com/"
+    },{
+        title: "behance",
+        href: "https://www.behance.net/"
     }
 ]
