@@ -77,7 +77,23 @@
                             </span>
                         </a>
                     </li>
-                </div>
+                    {% endif %}
+                </ul>
+                <p class="copyright text-muted">
+                    Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
+                    <br>
+                    Theme by <a href="http://sengoku.ml/">Sengoku</a> |
+                    <iframe
+                        style="margin-left: 2px; margin-bottom:-5px;"
+                        frameborder="0" scrolling="0" width="100px" height="20px"
+                        src="https://ghbtns.com/github-btn.html?user=sengoku-f&repo=sengoku-f.github.io&type=star&count=true" >
+                    </iframe>
+                    <iframe
+                        style="margin-left: 2px; margin-bottom:-5px;"
+                        frameborder="0" scrolling="0" width="100px" height="20px"
+                        src="https://ghbtns.com/github-btn.html?user=sengoku-f&repo=sengoku-f.github.io&type=fork&count=true" >
+                    </iframe>
+                </p>
             </div>
         </div>
     </div>
